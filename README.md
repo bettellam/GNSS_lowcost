@@ -23,9 +23,15 @@ Il servizio Galileo High Accuracy Service (HAS) fornisce  l'accesso gratuito , t
 
 https://www.gsc-europa.eu/galileo/services/galileo-high-accuracy-service-has
 
+Alcune immagini in fase di realizazione:
+
 ![01_img](./image/01_img.png)
 
 Ho realizzato ulteriormente una “barra GNSS” dotata di 2 antenne che aggancio alla barra portatutto della mia autovettura per testare le prestazioni e precisioni in HEADING MODE:
+
+
+
+Configurazione UM982:
 
 <pre><i>$command,CONFIG,response: OK*54
 $CONFIG,ANTENNA,CONFIG ANTENNA POWERON*7A
@@ -53,8 +59,7 @@ $CONFIG,COM2,CONFIG COM2 115200*23
 $CONFIG,COM3,CONFIG COM3 115200*23
 </i></pre>
 
-<pre><i>
-$command,UNILOGLIST,response: OK*4A
+<pre><i>$command,UNILOGLIST,response: OK*4A
 #UNILOGLIST,92,GPS,FINE,2353,142915000,0,0,18,296;
 23
 GNGGA COM1 1 	  GNGGA COM2 1 	  GNGGA COM3 1
@@ -68,9 +73,9 @@ AGRICA COM1 1
 PVTSLNA COM1 1  
 </i></pre>
 
-<pre><i>
-$command,versiona,response: OK*45
-#VERSIONA,92,GPS,FINE,2353,143029000,0,0,18,746;"UM982","R4.10Build13495","HRPT00‑S10C‑P","2310415000012‑LR23A1224506723","ff3bdb9914dca7db","2024/04/02"*68ebfbd8
+<pre><i>$command,versiona,response: OK*45
+#VERSIONA,92,GPS,FINE,2353,143029000,0,0,18,746;"UM982","R4.10Build13495","HRPT00‑S10C‑P",
+  "2310415000012‑LR23A1224506723","ff3bdb9914dca7db","2024/04/02"*68ebfbd8
 </i></pre>
 
 Per sperimentare l’utilizzo del ricevitore GNSS UM982 ho altresì sviluppato un’interfaccia in PyGis per la lettura dei messaggi satellitari ( tuttora in fase di sviluppo e test ) che potrebbe diventare in futuro un plugin di QGis o se riesco implementare il tutto nell’attuale interfaccia GNSS presente in QGis.  
@@ -79,6 +84,10 @@ Per sperimentare l’utilizzo del ricevitore GNSS UM982 ho altresì sviluppato u
 
 ![03_img](./image/03_img.png)
 
-| img                               | link                                                         |
+Per chi volesse replicare il dispositivo , di seguito troverete l'elenco dei materiali utilizzati:
 
+| foto |  link  |
+|--- |--- |--- |
 | ![01_um982](./image/01_um982.png) | [[01_um982]((https://it.aliexpress.com/item/1005006356627581.html) |
+|<img src="./image/01_um982.png"  width="300px"/> https://it.aliexpress.com/item/1005006356627581.html |
+|<img src="./image/01_um982.png"  width="300px"/> https://it.aliexpress.com/item/1005006356627581.html |
