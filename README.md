@@ -121,8 +121,4 @@ Per chi volesse replicare il dispositivo , di seguito troverete l'elenco dei mat
 |<img src="./image/31_batteria.png"  width="400px"/>| [31_batteria](https://it.aliexpress.com/item/1005007520617163.html ) |
 |<img src="./image/32_batteria.png"  width="400px"/>| [32_batteria](https://it.aliexpress.com/item/1005007586902014.html ) |
 |<img src=""  width="400px"/>| [33_fascette](https://it.aliexpress.com/item/4001271678128.html ) |
-|<img src="./image/31_batteria.png"  width="400px"/>| [31_batteria](https://it.aliexpress.com/item/1005007293369749.html ) |
-|<img src="./image/32_batteria.png"  width="400px"/>| [32_batteria](https://it.aliexpress.com/item/1005007520617163.html ) |
-|<img src="./image/01_um982.png"  width="400px"/>| [um982](https://it.aliexpress.com/item/1005007586902014.html ) |
-|<img src="./image/01_um982.png"  width="400px"/>| [um982](https://it.aliexpress.com/item/4001271678128.html ) |
 
