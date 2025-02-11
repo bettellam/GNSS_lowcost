@@ -5,6 +5,7 @@ Febbraio 2025
 Un “lavoretto” abbastanza lungo iniziato ad aprile 2024, varie prove, varie soluzioni alla fine questo è il risultato in un case in alluminio 80 x 80 x 40 mm:
 un ricevitore GNSS UNICORE UM982 che permette la connessione di 2 antenne GNSS, 2 schede Bluetooth HC05 (COM1 e COM2), un Datalog di backup automatico dei messaggi inviati alla porta COM, una batteria Lipo 3,7V 2500mAh con scheda di ricarica e unità di Step-Up a 5V che garantisce una autonomia di 4 ore con connessione USB esterna di  ricarica/supporto.
 ![00_img](https://github.com/user-attachments/assets/ce05509a-1b70-4159-917a-da2c9e5a6b14)
+![00_img](../../image/00img.png)
 
 Come mai ho scelto di utilizzare questo tipo di scheda GNSS? 
 
