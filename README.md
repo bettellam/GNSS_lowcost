@@ -3,19 +3,23 @@
 Febbraio 2025
 
 Un “lavoretto” abbastanza lungo iniziato ad aprile 2024, varie prove, varie soluzioni alla fine questo è il risultato in un case in alluminio 80 x 80 x 40 mm:
+
 un ricevitore GNSS UNICORE UM982 che permette la connessione di 2 antenne GNSS, 2 schede Bluetooth HC05 (COM1 e COM2), un Datalog di backup automatico dei messaggi inviati alla porta COM, una batteria Lipo 3,7V 2500mAh con scheda di ricarica e unità di Step-Up a 5V che garantisce una autonomia di 4 ore con connessione USB esterna di  ricarica/supporto.
-![00_img](./image/00_img.png)
+<img src="./image/00_img.png"  width="500px"/>
+
+<a href="https://en.unicore.com/products/dual-antenna-gnss-um982/" target="_blank">https://en.unicore.com/products/dual-antenna-gnss-um982/</a>
+
 
 Come mai ho scelto di utilizzare questo tipo di scheda GNSS? 
 
-https://en.unicore.com/products/dual-antenna-gnss-um982/
+Innanzi a tutto il prezzo, un vero “Low-Cost” , ma anche la qualità e le caratteristiche veramente innovative. 
 
-Innanzi a tutto il prezzo, un vero “Low-Cost” , ma anche la qualità e le caratteristiche veramente innovative. Devo dire che mi interessava scoprire cosa può fare un dispositivo GNSS dual-antenna, il cui utilizzo “principe” è nell’agricoltura di precisione con hardware e software di assistenza alla guida.
+Devo dire che mi interessava scoprire cosa può fare un dispositivo GNSS dual-antenna, il cui utilizzo “principe” è nell’agricoltura di precisione con hardware e software di assistenza alla guida.
 https://github.com/AgOpenGPS-Official/AgOpenGPS
 
 Preciso subito per coloro che sono interessati alle sole funzioni topografiche, survey e mapping è consigliato l’altro modello singola antenna UM980 o il più sofisticato UM981 con IMU incorporata.
 
-Si tratta comunque di dispositivi in grado di ricevere i segnali Galileo E6B e quindi accedere ai servizi Galileo HAS che permettono/permetteranno precisioni planimetriche inferiori ai 20 cm e precisioni altimetriche inferiori ai 40 cm. 
+Si tratta comunque di dispositivi in grado di ricevere i segnali Galileo E6B e quindi accedere ai servizi Galileo HAS che permettono / permetteranno precisioni planimetriche inferiori ai 20 cm e precisioni altimetriche inferiori ai 40 cm. 
 
 Il tutto dipenderà molto dal firmware presente nella scheda GNSS ed ai futuri sviluppi ed aggiornamenti.
 
@@ -27,8 +31,13 @@ Alcune immagini in fase di realizazione:
 
 ![01_img](./image/01_img.png)
 
+L’utilizzo con QGis, tramite collegamento Bluetooth avviene in modo regolare, così come con QField e Mergin:
+<img src="./image/04_img.png"  width="400px"/><img src="./image/05_img.png"  width="400px"/>
+
+
 Ho realizzato ulteriormente una “barra GNSS” dotata di 2 antenne che aggancio alla barra portatutto della mia autovettura per testare le prestazioni e precisioni in HEADING MODE:
----- immagine ------
+
+---- inserire immagine ------
 
 
 Configurazione UM982:
