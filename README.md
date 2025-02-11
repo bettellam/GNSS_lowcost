@@ -109,7 +109,7 @@ Per chi volesse replicare il dispositivo , di seguito troverete l'elenco dei mat
 |<img src="./image/19_guida_luce_led.png"  width="400px"/>| [19_guida_luce_led](https://it.aliexpress.com/item/1005006150875834.html ) |
 |<img src="./image/20_distanziatori.png"  width="400px"/>| [20_distanziatori](https://it.aliexpress.com/item/32862529967.html ) |
 |<img src="./image/21_dadi_1-4.png"  width="400px"/>| [21_dadi_1-4](https://it.aliexpress.com/item/1005001917849687.html ) |
-|<img src="./image/2_adattatore_5-8_1-4.png"  width="400px"/>| [2_adattatore_5-8_1-4](https://it.aliexpress.com/item/1005005936639212.html ) |
+|<img src="./image/22_adattatore_5-8_1-4.png"  width="400px"/>| [22_adattatore_5-8_1-4](https://it.aliexpress.com/item/1005005936639212.html ) |
 |<img src="./image/23_splitter_gnss.png"  width="400px"/>| [23_splitter_gnss](https://it.aliexpress.com/item/1005005753608505.html ) |
 |<img src="./image/24_connettore_sma.png"  width="400px"/>| [24_connettore_sma](https://it.aliexpress.com/item/1005006603346164.html ) |
 |<img src="./image/25_cavo_adattatore_usb.png"  width="400px"/>| [25_cavo_adattatore_usb](https://it.aliexpress.com/item/1005006203091645.html ) |
