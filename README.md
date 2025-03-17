@@ -121,11 +121,11 @@ Per chi volesse replicare il dispositivo , di seguito troverete l'elenco dei mat
 |<img src="./image/22_adattatore_5-8_1-4.png"  width="400px"/>| [22_adattatore_5-8_1-4](https://it.aliexpress.com/item/1005005936639212.html ) |
 |<img src="./image/23_splitter_gnss.png"  width="400px"/>| [23_splitter_gnss](https://it.aliexpress.com/item/1005005753608505.html ) |
 |<img src="./image/24_connettore_sma.png"  width="400px"/>| [24_connettore_sma](https://it.aliexpress.com/item/1005006603346164.html ) |
-|<img src="./image/25_cavo_adattatore_usb.png"  width="400px"/>| [25_cavo_adattatore_usb](https://it.aliexpress.com/item/1005006203091645.html ) |
-|<img src="./image/26_antenne_gnss.png"  width="100px"/>| [26_antenne_gnss](https://it.aliexpress.com/item/1005003069610289.html ) |
+|<img src="./image/25_cavo_adattatore_usb.png"  width="400px"/>| [25_cavo_adattatore_usb](https://it.aliexpress.com/item/1005005088472531.html ) |
+|<img src="./image/26_antenne_gnss.png"  width="100px"/>| [26_antenne_gnss](https://it.aliexpress.com/item/1005006203091645.html ) |
 |<img src="./image/27_cavo_sma_3m.png"  width="400px"/>| [27_cavo_sma_3m](https://it.aliexpress.com/item/1005003069610289.html ) |
-|<img src="./image/28_cavo_sma_5m.png"  width="400px"/>| [28_cavo_sma_5m](https://it.aliexpress.com/item/1005006413671801.html ) |
-|<img src="./image/29_manicotto.png"  width="400px"/>| [29_manicotto](https://it.aliexpress.com/item/1005005088472531.html ) |
+|<img src="./image/28_cavo_sma_5m.png"  width="400px"/>| [28_cavo_sma_5m](https://it.aliexpress.com/item/1005003069610289.html ) |
+|<img src="./image/29_manicotto.png"  width="400px"/>| [29_manicotto](https://it.aliexpress.com/item/1005006413671801.html ) |
 |<img src="./image/30_batteria.png"  width="400px"/>| [30_batteria](https://it.aliexpress.com/item/1005007293369749.html ) |
 |<img src="./image/31_batteria.png"  width="400px"/>| [31_batteria](https://it.aliexpress.com/item/1005007520617163.html ) |
 |<img src="./image/32_batteria.png"  width="400px"/>| [32_batteria](https://it.aliexpress.com/item/1005007586902014.html ) |
